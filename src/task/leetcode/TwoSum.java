@@ -1,5 +1,11 @@
 package task.leetcode;
 
+/*Условие задачи: https://leetcode.com/problems/two-sum/
+
+Дан массив уникальных целых чисел nums и целое число target, верните два числа из массива так, чтобы в сумме они составляли target.
+
+ */
+
 import java.util.Arrays;
 
 public class TwoSum {

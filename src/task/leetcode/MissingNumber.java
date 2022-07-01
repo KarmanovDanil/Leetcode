@@ -1,5 +1,6 @@
-package task.leetcode;/*Условие задачи
-https://leetcode.com/problems/missing-number/
+package task.leetcode;
+
+/*Условие задачи: https://leetcode.com/problems/missing-number/
 
 Сумма положительных натуральных чисел от 1 до n, то есть, 1+2+3+...+n, вычисляется по формуле n*(n+1)/2
 

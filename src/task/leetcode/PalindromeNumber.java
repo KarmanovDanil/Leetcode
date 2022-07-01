@@ -1,5 +1,11 @@
 package task.leetcode;
 
+/* Условие задачи: https://leetcode.com/problems/palindrome-number/
+
+По заданному положительному целому числу необходимо проверить, является ли число палиндромным или нет.
+
+ */
+
 public class PalindromeNumber {
     public static void main(String[] args) {
         System.out.println(isPalindrome(0));
